@@ -1,0 +1,42 @@
+{
+  "name": "test09",
+  "version": "1.0.0",
+  "description": "My epic Nuxt.js project",
+  "author": "ahacross",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "dayjs": "^1.8.16",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.15",
+    "nuxt": "^2.0.0",
+    "sweetalert": "^2.1.2",
+    "tui-grid": "^4.5.0",
+    "vue-i18n": "^8.14.0",
+    "xlsx": "^0.15.1",
+    "xml-js": "^1.6.11",
+    "vue": "latest",
+    "vuex": "latest"
+  },
+  "devDependencies": {
+    "@nuxt/babel-preset-app": "^2.9.2",
+    "@nuxtjs/eslint-config": "^1.0.1",
+    "@nuxtjs/eslint-module": "^1.0.0",
+    "@nuxtjs/vuetify": "^1.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-nuxt": ">=0.4.2",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
+  }
+}
