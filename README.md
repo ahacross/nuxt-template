@@ -1,4 +1,4 @@
-# test09
+# Nuxt
 
 > My epic Nuxt.js project
 
