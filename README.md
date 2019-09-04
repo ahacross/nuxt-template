@@ -1,6 +1,6 @@
-# Nuxt 템플릿 프로젝트
+# Nuxt
 
-> Nuxt 템플릿 프로젝트
+> My epic Nuxt.js project
 
 ## Build Setup
 
