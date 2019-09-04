@@ -1,6 +1,6 @@
-# test09
+# Nuxt 템플릿 프로젝트
 
-> My epic Nuxt.js project
+> Nuxt 템플릿 프로젝트
 
 ## Build Setup
 
